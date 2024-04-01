@@ -10,7 +10,6 @@ YouTube Spam Comments Detection Using Machine Learning
     3. Sure l v s Pavan Kumar
     4. P.Vamsi Krishna Reddy
 ### INTRODUCTION
-1.	INTRODUCTION
 
 YouTube, as one of the largest video-sharing platforms globally, has transformed the way people consume and interact with digital content. Its expansive user base and vast array of videos attract not only genuine engagement but also unwanted attention from spammers seeking to exploit the platform for various purposes. Among the numerous tactics employed by spammers, commenting represents a prevalent avenue for disseminating spam content, links, or deceptive messages. Consequently, the proliferation of spam comments not only degrades the user experience but also poses risks to platform integrity and user security.
 
